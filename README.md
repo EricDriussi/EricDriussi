@@ -19,7 +19,7 @@
 </p>
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EricDriussi&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricDriussi&layout=compact&theme=tokyonight)](https://github.com/AiranSchez/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricDriussi&layout=compact&theme=tokyonight)
   
   
 
