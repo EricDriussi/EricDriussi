@@ -40,13 +40,11 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"  width="60" height="60"/>
 <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo"  width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="60" height="60"/> 
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest"  width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="60" height="60"/> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="60" height="60"/>  
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="60"/>  
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60" height="60"/>  
+<img src="https://github.com/file-icons/icons/blob/master/svg/LaTeX.svg" alt="latex" width="60" height="60"/>  
 </p>
 
 
