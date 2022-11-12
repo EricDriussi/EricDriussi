@@ -38,6 +38,7 @@
 </p>
 
 <p align="center">
+<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go"  width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"  width="60" height="60"/>
 <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="60" height="60"/>
@@ -52,12 +53,10 @@
 ## 🔧 Tools
 <p align="center">
 
-<img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim"  width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab"  width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains"  width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode"  width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  width="60" height="60"/>
 
 </p>
 
