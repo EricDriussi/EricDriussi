@@ -5,8 +5,8 @@
   <a href="https://gitlab.com/ericdriussi">
     <img align="center" src="https://img.shields.io/badge/gitlab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
-  <a href="https://unixmagick.xyz/">
-    <img align="center" src="https://img.shields.io/badge/-unixmagick-E34F26?style=for-the-badge&logo=HTML5;logoColor=white" />
+  <a href="https://devintheshell.xyz/">
+    <img align="center" src="https://img.shields.io/badge/-dev.in.the.shell-E34F26?style=for-the-badge&logo=HTML5;logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/eric-driussi/">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,6 +22,7 @@
 <br>
 
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust"  width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go"  width="60" height="60"/>
   <img src="https://github.com/file-icons/icons/blob/master/svg/LaTeX.svg" alt="latex" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="60"/>
